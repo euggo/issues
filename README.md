@@ -20,3 +20,5 @@ Guide:
   - *User/Token usage: https://golang.org/pkg/net/http/#Request.SetBasicAuth
   - *User/Token advanced: https://stackoverflow.com/questions/16673766/basic-http-auth-in-go
   - *Pin Github API ver `req.Header.Set("Accept", "application/vnd.github.v3.text-match+json"))`
+  - *Documentation is your friend: https://developer.github.com/v3/                                                             
+    - We're particularly interested in "issues" (https://developer.github.com/v3/issues/) 
